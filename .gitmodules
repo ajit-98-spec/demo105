@@ -1,0 +1,3 @@
+[submodule "demo106"]
+	path = demo106
+	url = git@github.com:ajit-98-spec/demo106.git
